@@ -1,4 +1,5 @@
 # IEEE-CS-Competition-2024-Serverless-Challenge
+Authors: Ashraf Mahgoub (GM/Cruise), Jagannath Prabhakaran (Purdue University)
 
 ## Challenge Overview
 This challenge focuses on predicting the invocation rates of Azure Serverless Functions using historical data. You are tasked with building a model capable of forecasting invocation rates.
